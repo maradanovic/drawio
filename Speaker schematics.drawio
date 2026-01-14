@@ -127,6 +127,15 @@
         <mxCell id="DKJSKuRumUtnBnOcCB3O-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GND" vertex="1">
           <mxGeometry height="20" width="40" x="680" y="340" as="geometry" />
         </mxCell>
+        <mxCell id="DKJSKuRumUtnBnOcCB3O-73" edge="1" parent="1" source="DKJSKuRumUtnBnOcCB3O-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="370" />
+              <mxPoint x="450" y="390" />
+            </Array>
+            <mxPoint x="360" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DKJSKuRumUtnBnOcCB3O-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="V+" vertex="1">
           <mxGeometry height="20" width="40" x="680" y="360" as="geometry" />
         </mxCell>
