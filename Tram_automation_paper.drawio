@@ -37,7 +37,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQQHT678YoejRl6WhG4c-7" value="Access zone gradient lower than 2%?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HQQHT678YoejRl6WhG4c-7" value="Gradient lower &lt;br&gt;than 2%?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="-32" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HQQHT678YoejRl6WhG4c-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HQQHT678YoejRl6WhG4c-14" target="HQQHT678YoejRl6WhG4c-5">
@@ -65,7 +65,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQQHT678YoejRl6WhG4c-14" value="Access zone camber lower than 3%?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HQQHT678YoejRl6WhG4c-14" value="Camber lower&lt;br&gt;&amp;nbsp;than 3%?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="437" y="-32" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HQQHT678YoejRl6WhG4c-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HQQHT678YoejRl6WhG4c-7" target="HQQHT678YoejRl6WhG4c-5">
