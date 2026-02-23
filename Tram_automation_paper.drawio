@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="DVtAv1QZORAaYBQI6AVo">
-    <mxGraphModel dx="827" dy="843" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="412" dy="829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,13 +20,10 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQQHT678YoejRl6WhG4c-1" value="Obstacles in the access zone?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HQQHT678YoejRl6WhG4c-1" value="Obstacles in the access zone?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="121" y="-32" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HQQHT678YoejRl6WhG4c-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="-32" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HQQHT678YoejRl6WhG4c-5" value="Tram stop not accessible" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HQQHT678YoejRl6WhG4c-5" value="Tram stop not accessible" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="116" y="122" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HQQHT678YoejRl6WhG4c-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HQQHT678YoejRl6WhG4c-7" target="HQQHT678YoejRl6WhG4c-14">
@@ -37,7 +34,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQQHT678YoejRl6WhG4c-7" value="Gradient lower &lt;br&gt;than 2%?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HQQHT678YoejRl6WhG4c-7" value="Gradient lower&lt;div&gt;than 2%?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="279" y="-32" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HQQHT678YoejRl6WhG4c-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="HQQHT678YoejRl6WhG4c-14" target="HQQHT678YoejRl6WhG4c-5">
@@ -62,10 +59,10 @@
         </mxCell>
         <mxCell id="HQQHT678YoejRl6WhG4c-24" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="HQQHT678YoejRl6WhG4c-23">
           <mxGeometry x="-0.7424" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQQHT678YoejRl6WhG4c-14" value="Camber lower&lt;br&gt;&amp;nbsp;than 3%?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HQQHT678YoejRl6WhG4c-14" value="Camber lower&lt;br&gt;than 3%?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="437" y="-32" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HQQHT678YoejRl6WhG4c-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="HQQHT678YoejRl6WhG4c-7" target="HQQHT678YoejRl6WhG4c-5">
@@ -79,7 +76,7 @@
             <mxPoint y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQQHT678YoejRl6WhG4c-22" value="Tram stop accessible" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HQQHT678YoejRl6WhG4c-22" value="Tram stop&lt;div&gt;accessible&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="530" y="122" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
